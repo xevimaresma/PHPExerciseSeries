@@ -1,4 +1,1 @@
-This are the first exercices of PHP series.
-You can start a php local server on PHP5.4 or upper.
-
-php -S localhost:8000
+This is a series of exercises that guide you through the different paradigms and web development with PHP specifically evolved.
