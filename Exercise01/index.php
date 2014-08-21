@@ -15,6 +15,9 @@
     color: green;
   }
 </style>
+
+<h1>Exercise 01</h1>
+
 <?php
   if($_SERVER['REQUEST_METHOD']=='POST'){
     $name = $_POST['name'];
