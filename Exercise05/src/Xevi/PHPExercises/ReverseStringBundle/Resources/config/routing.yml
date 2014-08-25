@@ -1,0 +1,3 @@
+xevi_php_exercises_reverse_string_homepage:
+    path:     /
+    defaults: { _controller: XeviPHPExercisesReverseStringBundle:Default:index }

@@ -1,0 +1,4 @@
+xevi_php_exercises_reverse_string:
+    resource: "@XeviPHPExercisesReverseStringBundle/Resources/config/routing.yml"
+    prefix:   /
+
