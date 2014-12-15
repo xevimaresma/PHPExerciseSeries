@@ -1,0 +1,7 @@
+<div ng-controller="MyCtrl1">
+  <form novalidate name="reverseForm" ng-submit="reverse(name)" class="simple-form">
+    <label for="name">Name: </label><input type="text" required ng-model="name" />
+    <button type="submit">Send</button>
+  </form>
+  <p ng-show="reversed_name" class="reverse">Your reversed string is: {{reversed_name}}</p>
+</div>

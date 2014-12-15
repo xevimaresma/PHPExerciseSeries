@@ -1,0 +1,12 @@
+/* app css stylesheet */
+
+p.error {
+    border-width: 1px;
+    border-color: red;
+    color: red;
+}
+p.reverse {
+    border-width: 1px;
+    border-color: green;
+    color: green;
+}
