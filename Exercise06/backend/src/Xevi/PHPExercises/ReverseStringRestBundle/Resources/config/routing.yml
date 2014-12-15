@@ -1,0 +1,3 @@
+reverse:
+    type:     rest
+    resource: Xevi\PHPExercises\ReverseStringRestBundle\Controller\DefaultController

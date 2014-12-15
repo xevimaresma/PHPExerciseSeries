@@ -1,0 +1,7 @@
+parameters:
+#    xevi_php_exercises_reverse_string_rest.example.class: Xevi\PHPExercises\ReverseStringRestBundle\Example
+
+services:
+#    xevi_php_exercises_reverse_string_rest.example:
+#        class: %xevi_php_exercises_reverse_string_rest.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
